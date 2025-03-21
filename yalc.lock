@@ -1,0 +1,29 @@
+{
+  "version": "v1",
+  "packages": {
+    "@medusajs/product": {
+      "signature": "464def335529a7bb08f833932bce9144",
+      "file": true
+    },
+    "@medusajs/admin-sdk": {
+      "signature": "e4c661a2dfa3d55523af7f686bf7df83",
+      "file": true,
+      "replaced": "file:C:/Users/Dell/OneDrive/Desktop/Tech Holding/Medusa/medusa clone/medusa-develop/packages/admin/admin-sdk"
+    },
+    "@medusajs/cli": {
+      "signature": "5e9f92dca63f7055e0479450f574e0f9",
+      "file": true,
+      "replaced": "file:C:/Users/Dell/OneDrive/Desktop/Tech Holding/Medusa/medusa clone/medusa-develop/packages/cli/medusa-cli"
+    },
+    "@medusajs/framework": {
+      "signature": "c9e84c4ff8504ba2a7ed0107dcab2cac",
+      "file": true,
+      "replaced": "file:C:/Users/Dell/OneDrive/Desktop/Tech Holding/Medusa/medusa clone/medusa-develop/packages/core/framework"
+    },
+    "@medusajs/medusa": {
+      "signature": "2ee7d1be7d81340870cc5f048a877fe4",
+      "file": true,
+      "replaced": "file:C:/Users/Dell/OneDrive/Desktop/Tech Holding/Medusa/medusa clone/medusa-develop/packages/medusa"
+    }
+  }
+}
